@@ -1,0 +1,16 @@
+[
+  {
+    "teacherId": "ICPMAR-1001",
+    "password": "teachpass123",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "subject": "Mathematics"
+  },
+  {
+    "teacherId": "ICPMAR-1002",
+    "password": "secret456",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "subject": "Science"
+  }
+]

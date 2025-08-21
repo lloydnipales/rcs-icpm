@@ -1,0 +1,10 @@
+{
+  "Grade 12 - ICT 500": [
+    { "id": "S101", "name": "Carl Yuri Dalayap", "grades": [85, 90, 88] },
+    { "id": "S102", "name": "Marc Andrei Policarpio", "grades": [78, 82, 80] }
+  ],
+  "Grade 12 - ICT 600": [
+    { "id": "S201", "name": "Sweet Cassie Palabao", "grades": [92, 88, 91] },
+    { "id": "S202", "name": "Joseph Francisco", "grades": [85, 80, 90] }
+  ]
+}
